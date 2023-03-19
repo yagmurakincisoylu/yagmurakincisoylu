@@ -1,7 +1,7 @@
 # Hi, I'm Yagmur Akincisoylu 👋🏽
 
 ##  About Me
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjY2NGI1OWEzMDBiYzJjNGU5ZTBhYjcyOGZlYWZhOWFlODJmMzE2OCZjdD1n/zOvBKUUEERdNm/giphy.gif" align="right" width="250"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjY2NGI1OWEzMDBiYzJjNGU5ZTBhYjcyOGZlYWZhOWFlODJmMzE2OCZjdD1n/zOvBKUUEERdNm/giphy.gif" align="right" width="225"/>
 
 I have been learning front-end web development for more than two years. I have honed my skills in HTML, CSS and JavaScript and am currently focused on enhancing my expertise in ReactJS. In the last year alone, I have completed more than 20 projects. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts.
 
