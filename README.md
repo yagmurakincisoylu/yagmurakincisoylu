@@ -43,9 +43,9 @@ I have been learning front-end web development for more than two years. I have h
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 # Stats
-![Yagmur's GitHub stats](https://github-readme-stats.vercel.app/api?username=yagmurakincisoylu&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=cobalt)
+![Yagmur's GitHub stats](https://github-readme-stats-yagmurakincisoylu.vercel.app/api?username=yagmurakincisoylu&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=cobalt)
   </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagmurakincisoylu&layout=compact&exclude_repo=github-readme-stats,yagmurakincisoylu.github.io&theme=cobalt)](https://github.com/yagmurakincisoylu/github-readme-stats)
+[![Top Langs](https://github-readme-stats-yagmurakincisoylu.vercel.app/api/top-langs/?username=yagmurakincisoylu&layout=compact&exclude_repo=github-readme-stats,yagmurakincisoylu.github.io&theme=cobalt)](https://github.com/yagmurakincisoylu/github-readme-stats)
 
 # Socials
 
