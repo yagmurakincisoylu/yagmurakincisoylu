@@ -9,7 +9,7 @@ I have been learning front-end web development for more than two years. I have h
 - 🌍 I'm based in Munich / Germany
 - 💪🏼 My strength is my ability to dedicate myself to completing a task
 - 🧩 I spend my free time playing [nonogram](https://en.wikipedia.org/wiki/Nonogram)
-- 💀 I love horror games but I got too scared to play
+- 💀 I love horror games but I get too scared to play
 - ✉️ You can contact me at yagmurakincisoylu@gmail.com
 - ⚡ Feel free to contact me with or without any reason
 
