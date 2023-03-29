@@ -51,6 +51,6 @@ I have been learning front-end web development for more than two years. I have h
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yagmurakincisoylu/)
 [![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Yagmur_Akincisoylu/cv)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yagmurakincisoylu)
+[![Portfolio](https://img.shields.io/badge/Potfolio-E76F51?style=for-the-badge&logoColor=white)](https://yagmurakincisoylu.netlify.app/)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/yagmurakincisoylu)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Pirtikal#9194)
