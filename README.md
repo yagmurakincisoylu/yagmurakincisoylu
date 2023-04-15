@@ -50,7 +50,7 @@ I have been learning front-end web development for more than two years. I have h
 # Socials
 
 [![Portfolio](https://img.shields.io/badge/Potfolio-E76F51?style=for-the-badge&logoColor=white)](https://yagmurakincisoylu.netlify.app/)
-[![CV](https://img.shields.io/badge/RESUME-0E3946?style=for-the-badge&logoColor=white)](CV-yagmur-akincisoylu.pdf)
+[![CV](https://img.shields.io/badge/RESUME-0E3946?style=for-the-badge&logoColor=white)](yagmur-akincisoylu-cv.pdf)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yagmurakincisoylu/)
 [![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Yagmur_Akincisoylu/cv)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/yagmurakincisoylu)
